@@ -66,6 +66,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash00gandhi-lgtm&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash00gandhi-lgtm&theme=tokyonight" />
+</p>
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/yash-gandhi-176b19366
