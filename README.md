@@ -80,8 +80,14 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,html,css,bootstrap" />
+</p>
+
+<p align="center">
+  REST APIs • OpenRouter API • Thunder Client • Render Deployment
 </p>
 
 ## 📊 GitHub Stats
