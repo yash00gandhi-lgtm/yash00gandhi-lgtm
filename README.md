@@ -93,5 +93,5 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash00gandhi-lgtm" />
+  <img src="https://streak-stats.demolab.com?user=yash00gandhi-lgtm&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
