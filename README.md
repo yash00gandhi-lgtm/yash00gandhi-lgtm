@@ -90,12 +90,8 @@
   REST APIs • OpenRouter API • Thunder Client • Render Deployment
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash00gandhi-lgtm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash00gandhi-lgtm&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yash00gandhi-lgtm" />
 </p>
