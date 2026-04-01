@@ -77,9 +77,6 @@
 
 ⭐ *Focused on building, not just learning.*
 
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -89,6 +86,8 @@
 <p align="center">
   REST APIs • OpenRouter API • Thunder Client • Render Deployment
 </p>
+
+🚀 Consistently building and improving backend systems
 
 ## 📊 GitHub Activity
 
