@@ -1,96 +1,71 @@
-# 👋 Hi, I'm Yash Gandhi
-
-🚀 Backend Developer | Django | AI Projects
-
----
-
-## 💡 About Me
-
-* 🎓 BCA Student at Integral University
-* 💻 Backend Developer focused on Django & REST APIs
-* 🤖 Building AI-based real-world applications
-* ⚡ Love solving problems and improving daily
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI Interview Simulator
-
-* Resume upload (PDF parsing using pdfplumber)
-* AI generates interview questions
-* AI evaluates answers with score & feedback
-* Built using Django + OpenRouter API
-
----
-
-### 📊 HireSense — AI Resume Screening System
-
-* ATS score calculation
-* Resume-job matching system
-* REST APIs using Django REST Framework
-* Deployed on Render
-
----
-
-### 🏋️ Gym Management System
-
-* Member & subscription management
-* Role-based authentication
-* CRUD operations using Django ORM
-
----
-
-## 🛠️ Tech Stack
-
-* 💻 Languages: Python, Java, SQL
-* ⚙️ Frameworks: Django, Django REST Framework
-* 🤖 AI: OpenRouter API
-* 🗄️ Database: MySQL
-* 🛠️ Tools: Git, GitHub, Thunder Client, Render
-* 📚 Libraries: pdfplumber, NumPy, Pandas
-
----
-
-## 📈 Currently Working On
-
-* Improving Data Structures & Algorithms
-* Building scalable backend systems
-
----
-
-## 🎯 Goals
-
-* Become a strong backend developer
-* Work on scalable and real-world systems
-
----
-
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/yash-gandhi-176b19366
-* 💻 GitHub: https://github.com/yash00gandhi-lgtm
-* 📧 Email: [yash00gandhi@gmail.com](mailto:yash00gandhi@gmail.com)
-
----
-
-⭐ *Focused on building, not just learning.*
-
-## 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm Yash Gandhi</h1>
+<h3 align="center">Backend Developer | Django + DRF | Building AI-Integrated Full-Stack Apps</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,html,css,bootstrap" />
+  <a href="mailto:yash00gandhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yash-gandhi-176b19366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://axclusiveyeshportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 BCA student at **Integral University** (2024–2027), based in **Kanpur, India**
+- 🐍 Specializing in **Django REST Framework** for scalable backend systems
+- 🤖 Passionate about **AI integration** — LLM workflows, prompt engineering, intelligent automation
+- 🚀 Currently building **production-grade full-stack apps** deployed on Render
+- 📚 Currently learning DSA, advanced backend patterns, and system design
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, SQL  
+**Backend:** Django, Django REST Framework, FastAPI, JWT, REST APIs  
+**Frontend:** React, Vite, HTML, CSS  
+**Databases:** SQLite, MySQL  
+**AI Integration:** Groq API, OpenRouter API, Prompt Engineering  
+**DevOps:** Git, GitHub, Render, Gunicorn, WhiteNoise, CI/CD, Postman
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live | Code |
+|---------|-------------|------|------|
+| 🎫 **SmartDesk** | AI-powered helpdesk with multi-role JWT auth, state machine, and Groq LLM ticket triage | [Live](https://smartdesk-frontend-ziiu.onrender.com) | [Code](https://github.com/yash00gandhi-lgtm/Smartdesknew) |
+| 🧠 **LearnLoop** | AI flashcards with SM-2 spaced repetition algorithm + 3D card flip animations | [Live](https://learnloop-1-3fm2.onrender.com) | [Code](https://github.com/yash00gandhi-lgtm/learnloop) |
+| 🎤 **AI Interview Simulator** | Personalized interview question generator with AI-powered evaluation | [Live](https://ai-interview-simulator1.onrender.com) | [Code](https://github.com/yash00gandhi-lgtm/AI_Simulator) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash00gandhi-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's GitHub Stats" />
 </p>
 
 <p align="center">
-  REST APIs • OpenRouter API • Thunder Client • Render Deployment
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash00gandhi-lgtm&theme=tokyonight&hide_border=true" alt="Yash's Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash00gandhi-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
-## 📊 GitHub Activity
+### 💼 Currently Open To
+
+- **Backend Developer** internships and roles (Python/Django focus)
+- **Full-Stack Developer** internships
+- **Remote opportunities** worldwide
+
+📧 Reach me at: **yash00gandhi@gmail.com**
+
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash00gandhi-lgtm&theme=tokyonight&hide_border=true&background=0D1117" />
+  <i>"Code, learn, deploy, repeat."</i> 🚀
 </p>
